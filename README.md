@@ -1,4 +1,21 @@
-### Hi there 👋
+### 👋 Hi, I'm Joey
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeykilpatrick&layout=compact" />
+
+
+I'm interested in:
+  - AWS
+  - DevOps
+  - TypeScript
+  - media streaming
+  - functional programming
+
+For fun:
+  - Minecraft
+  - Factorio
+  - Jaipur
+
+
 
 <!--
 **joeykilpatrick/joeykilpatrick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
