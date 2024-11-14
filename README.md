@@ -2,7 +2,7 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joeykilpatrick&layout=compact" />
 
-
+<!--
 I'm interested in:
   - AWS
   - DevOps
@@ -14,7 +14,7 @@ For fun:
   - Minecraft
   - Factorio
   - Jaipur
-
+-->
 
 
 <!--
